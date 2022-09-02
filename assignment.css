@@ -1,0 +1,289 @@
+
+/* ####################################################### */
+
+body {margin: 0px; font-family:Frank Ruhl Libre ;
+    background-color:rgb(175, 126, 126); }
+/* ...................................................... */
+
+#span1 {color: whitesmoke;}
+/* ...................................................... */
+
+.head {display:flex;
+     align-items: flex-start;
+     margin-left: 170px; 
+     font-family: poppins; font-weight: bold}
+/* ....................................................... */
+
+#spn {margin-top: 20px;}
+
+/* ...................................................... */
+
+.nav {margin-left: 80px;
+    
+    display: flex;
+    color:rgb(1, 1, 27);}
+
+/* ...................................................... */
+.mid1 {display: flex;
+    color:rgb(1, 1, 17);
+    margin-right: 100px; margin-top: 50px;
+    padding-right: 200px; padding-left: 170px;}
+/*.....................................................  */
+
+.mid-text { margin-left: 30px;}
+
+/* ................................................... */
+  .input {
+  display: flex;
+  border: solid 1px; border-radius: 20px;
+  width: 450px;
+  height: 50px;
+  background: rgb(1, 1, 27);
+  margin-right: 80px;}
+/* ..................................................... */
+
+#btn1 {width: 200px;
+     height: 40px;
+     margin-top: 10px;
+     border-radius: 20px;
+     color:  wheat;
+     background: rgb(1, 1, 27);
+     font-family: poppins; font-weight: bold;}
+/* ................................................... */
+
+#btn2 {border-radius: 20px;
+     height: 50px;
+     width: 200px;
+     margin-left: 80px;
+     color: wheat;  border: solid wheat 1px;
+     background: rgb(1, 1, 27);
+     font-family: poppins;
+     font-weight: bold;
+margin-bottom: 4em;}
+/*..................................................  */
+
+  ::placeholder {
+     padding-left: 15px; 
+     color: wheat;
+     background: whitesmoke;
+     background: rgb(1, 1, 27);
+     font-family: poppins;}
+/* ################################################## */
+
+.main {
+     display: flex;
+     justify-content: space-between;
+     margin-top: 3em;
+     padding-right: 9em;
+     padding-left: 8em;
+     margin-right: 50px;
+     background: black;
+     color:  rgb(214, 189, 189);
+     font-family: poppins;
+     width: 85%; 
+ }
+
+
+ .mid {
+     display: flex;
+     flex-direction: column;
+     padding-top: 30px;
+     padding-right: 50px;
+     word-spacing: 150px;
+ }
+ 
+ #span2 {
+     font-size: 40px;
+     text-align: center;
+     font-weight: bold;
+     padding-bottom: 20px;
+     font-family: Frank Ruhl Libre ;
+     margin-left: 80px;
+     color: rgb(91, 224, 87);
+ }
+ 
+ #about-btn {
+     margin-top: 30px;
+     border-radius: 20px;
+     height: 50px;
+     width: 100px;
+     margin-left: 180px;
+     color: rgb(1, 1, 27);
+     background:  rgb(214, 189, 189);
+     font-weight: bold;}
+
+/* ########################################################### */
+.container {
+    display: flex;
+   padding-top: 4em;
+    padding-left: 8em;
+    margin-right: 290px;
+    justify-content: space-between;
+    margin: 0px 0px;
+    background-color:rgb(175, 126, 126);
+    padding-bottom: 0px;
+    width:80% ;
+} 
+
+ /*.....................................................  */
+
+.text {
+    margin-top: 130px;
+    font-family:poppins;
+    height: 120px;
+    padding-left: 40px;
+    width: 400px;
+    background:rgb(1, 1, 27);
+    color: wheat;
+    border-radius: 30px;
+    box-shadow: -3px -5px rgb(196, 192, 192);}
+
+/* ...................................................... */
+
+#para {font-size: 10px;}
+
+/* ...................................................... */
+
+#span4 {font-size: 40px;
+      font-family: Frank Ruhl Libre ;
+      width:500px;}
+
+/*....................................................  */
+
+.phone {display: flex;
+        width: 230px;
+        margin-left: 150px;
+        margin-right: 220px;
+        padding-bottom: 150px;
+        filter: brightness(90%);}
+/* ######################################################## */
+
+
+.main5 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: poppins;
+    color:rgb(1, 1, 27); 
+    margin-top: 5em;
+}
+
+#icon1 {
+    margin-left: 143px;
+    font-size: 40px;
+}
+
+#icon2 {
+    margin-left: 143px;
+    font-size: 40px;}
+
+ #icon3 {
+        margin-left: 143px;
+        font-size: 40px;}   
+
+.headd {
+    margin-left: 115px;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+#personaltext {
+    margin-left: 40px;
+    text-align: center;
+    font-size: 10px;
+}
+#banktext {
+    margin-left: 40px;
+    text-align: center;
+    font-size: 10px;
+}
+
+#cardtext {
+    margin-left: 40px;
+    text-align: center;
+    font-size: 10px;
+}
+
+#spnn1 {
+    margin-left: 60px;
+    font-size: 10px;
+}
+
+#spnn2 {
+    margin-left: 120px;
+    font-size: 10px;
+}
+
+#spnn3 {
+    margin-left: 50px;
+    font-size: 10px;
+}
+
+
+.mid5 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 100px;
+    
+}
+
+    #btnn {width: 200px;
+        height: 40px;
+        border-radius: 20px;
+        color:  wheat;
+        background: rgb(1, 1, 27);
+        font-family: poppins; font-weight: bold;
+        border-radius: 20px;
+        height: 30px;
+        background: rgb(1, 1, 27);;
+        color: wheat;
+        border: solid wheat  3px;
+    }   
+       
+#spnn {
+     margin-bottom: 60px;
+    }
+
+#inputt {
+    border: solid rgb(1, 1, 27) 1px;
+    border-right: none;
+    border-radius: 20px;
+    height: 29px;
+    background:rgb(1, 1, 27); ;
+}
+
+#ready {
+    margin-top: 10px;
+    font-size: 40px;
+}
+
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    margin-left: 6em;
+    color:rgb(1, 1, 27);
+    font-family:Frank Ruhl Libre ;
+    
+}
+
+
+#heading{
+    text-align: center;
+    font-size: 3rem;
+}
+
+.head-body {
+    padding-top: 5em;
+}
+
